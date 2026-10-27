@@ -1,0 +1,1 @@
+Versi HTML/CSS/JavaScript statis untuk Netlify. Tidak menjalankan PHP/MySQL. Data wisata contoh berasal dari nama dan foto aset proyek. Harga tidak direka. Login, admin, checkout, pembayaran dan QR belum berfungsi. Proyek PHP asli tidak diubah.
